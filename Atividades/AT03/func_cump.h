@@ -1,0 +1,1 @@
+void cumprimenta(char inic1, char inic2);
